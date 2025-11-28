@@ -1,4 +1,4 @@
-## ども, かじゃです✨
+## ども, かじゃです👋
 
 <!--
 **kaja36/kaja36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
